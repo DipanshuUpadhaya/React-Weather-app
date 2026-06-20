@@ -1,0 +1,10 @@
+.searchBox {
+  margin-bottom: 25px;
+}
+
+.searchBox form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+}
